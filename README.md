@@ -30,7 +30,7 @@ Analyze user journey data to identify drop-off points and improve conversion rat
 
 ## 🛠 Tools Used
 - Python (Pandas, NumPy)  
-- Visualization (Matplotlib, Seaborn, Plotly)  
+- Visualization (Matplotlib, Seaborn)  
 - Excel (Dashboard & Reporting)
 
 ---
