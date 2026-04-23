@@ -36,7 +36,7 @@ Analyze user journey data to identify drop-off points and improve conversion rat
 ---
 
 ## 📈 Dashboard
-![Dashboard Screenshot](dashboard.jpg)
+![Dashboard Screenshot](excel_dashboard.jpg)
 
 ---
 
